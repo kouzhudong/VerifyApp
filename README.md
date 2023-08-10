@@ -1,5 +1,5 @@
 # VerifyApp
-Verify User App Signature In Windows Driver
+Verify User App Signature In Driver
 
 在Windows驱动中校验和驱动通讯的进程的签名是互联网大厂的一个常见做法。  
 其中的一个做法是：校验文件的数字签名。  
