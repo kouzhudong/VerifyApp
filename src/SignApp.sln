@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SignApp", "SignApp\SignApp.vcxproj", "{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UserApp", "UserApp\UserApp.vcxproj", "{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VerifyApp", "VerifyApp\VerifyApp.vcxproj", "{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Debug|ARM64.ActiveCfg = Debug|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Debug|ARM64.Build.0 = Debug|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Debug|x64.ActiveCfg = Debug|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Debug|x64.Build.0 = Debug|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Debug|x86.ActiveCfg = Debug|Win32
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Debug|x86.Build.0 = Debug|Win32
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Release|ARM64.ActiveCfg = Release|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Release|ARM64.Build.0 = Release|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Release|x64.ActiveCfg = Release|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Release|x64.Build.0 = Release|x64
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Release|x86.ActiveCfg = Release|Win32
+		{53EB04D4-F9ED-4978-BC3D-3EC4F1D9509B}.Release|x86.Build.0 = Release|Win32
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Debug|ARM64.ActiveCfg = Debug|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Debug|ARM64.Build.0 = Debug|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Debug|x64.ActiveCfg = Debug|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Debug|x64.Build.0 = Debug|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Debug|x86.Build.0 = Debug|Win32
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Release|ARM64.ActiveCfg = Release|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Release|ARM64.Build.0 = Release|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Release|x64.ActiveCfg = Release|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Release|x64.Build.0 = Release|x64
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Release|x86.ActiveCfg = Release|Win32
+		{8A1C9B14-DB4D-4769-BAE3-F0EC3179EA71}.Release|x86.Build.0 = Release|Win32
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|ARM64.Build.0 = Debug|ARM64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|x64.ActiveCfg = Debug|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|x64.Build.0 = Debug|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|x64.Deploy.0 = Debug|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|x86.ActiveCfg = Debug|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|x86.Build.0 = Debug|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Debug|x86.Deploy.0 = Debug|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|ARM64.ActiveCfg = Release|ARM64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|ARM64.Build.0 = Release|ARM64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|ARM64.Deploy.0 = Release|ARM64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|x64.ActiveCfg = Release|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|x64.Build.0 = Release|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|x64.Deploy.0 = Release|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|x86.ActiveCfg = Release|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|x86.Build.0 = Release|x64
+		{EDA67DD0-B329-4DAC-94D2-6F5E455E8935}.Release|x86.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {715C07A0-3824-410E-B372-15F528CE514D}
+	EndGlobalSection
+EndGlobal
